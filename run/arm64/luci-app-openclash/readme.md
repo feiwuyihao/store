@@ -1,1 +1,0 @@
-openclash latest version
